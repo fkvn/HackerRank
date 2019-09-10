@@ -5,7 +5,7 @@
  * @author kevinngo
  *
  */
-package java;
+package javaPractices;
 
 /**
  * 	This package includes all related-information about Java programming language from HackerRank
